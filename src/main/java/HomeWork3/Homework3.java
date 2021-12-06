@@ -1,9 +1,6 @@
 package HomeWork3;
 
 
-import java.util.Arrays;
-import java.util.Random;
-
 public class Homework3 {
 
     public static void main(String[] args) {
